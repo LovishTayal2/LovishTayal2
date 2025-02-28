@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Lovish Tayal!
+💻 Full Stack Developer | C++ Programmer 
 
-<!--
-**LovishTayal2/LovishTayal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science Engineering | Bennett University (CGPA: 9.8)
+🏆 Dean’s List Awardee (4 Consecutive Semesters)
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable applications, solving complex problems, and leveraging technology for innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack & Expertise
+💡 Languages: C, C++, JavaScript, HTML5, CSS3
+🖥 Frontend: Bootstrap, AngularJS, jQuery
+⚙️ Backend: Node.js, Express.js
+🗄 Databases: MySQL, MongoDB
+🛠 Tools & Platforms: Git, GitHub, VS Code
+
+📌 Specialties: Full Stack Web Development, Data Structures & Algorithms, API Development, Software Optimization
+
+🚀 Featured Projects
+🔹 🌐 Connexus – A web platform enabling seamless influencer-collaborator interactions.
+🔹 🐦 Twitter Clone – A responsive and dynamic Twitter UI replica.
+🔹 📋 Student Registration Form – An efficient and user-friendly student sign-up system.
+
+📂 Explore my repositories for more innovative projects!
+
+📬 Let's Connect!
+🔗 LinkedIn
+📩 Email
+
+🚀 Always open to collaboration and new opportunities!
+
+⭐ Let’s build the future, one line of code at a time!
