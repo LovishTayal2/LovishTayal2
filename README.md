@@ -35,8 +35,7 @@
 ## **📊 GitHub Stats**  
 
 ![Lovish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LovishTayal2&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LovishTayal2&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=LovishTayal2&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LovishTayal2&layout=compact&theme=radical)   
 
 ## **📬 Let's Connect!**  
 
