@@ -43,5 +43,3 @@
 📩 **Email**: [e22cseu0745@bennett.edu.in](mailto:e22cseu0745@bennett.edu.in)  
 
 🚀 **Let’s build something amazing together!** ✨  
-
-⭐ **Pro Tip:** Save this as `README.md` in your GitHub profile repository to create an attractive portfolio!  
